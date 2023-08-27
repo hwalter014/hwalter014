@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hwalter014
 - 👀 I’m interested in DFIR and OSINT
-- 🌱 I’m currently doing Deepfake Detection for my Bachelor Thesis
+- 🌱 I’m currently working at a CERT
 - 🐧 I use Ubuntu btw!
 
 <!---
